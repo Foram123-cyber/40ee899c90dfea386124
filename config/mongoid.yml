@@ -1,0 +1,9 @@
+# development:
+#   adapter: 'mongoid'
+#   clients:
+#     default:
+#       database:  cyber_development
+#       hosts:
+#         - localhost:3000
+#       options:
+#         server_selection_timeout: 10
